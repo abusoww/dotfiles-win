@@ -272,6 +272,16 @@
 | Software to debloat Win11        |  [winutil](https://github.com/ChrisTitusTech/winutil)                                 |
 
 
+
+<a href="https://www.star-history.com/#abusoww/dotfiles&abusoww/dotfiles-win&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=abusoww/dotfiles,abusoww/dotfiles-win&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=abusoww/dotfiles,abusoww/dotfiles-win&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=abusoww/dotfiles,abusoww/dotfiles-win&type=date&legend=bottom-right" />
+ </picture>
+</a>
+
+
 <div align="right">
 
 ## 📜 License
@@ -283,3 +293,5 @@ Feel free to use and modify these dotfiles.
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
+
+
